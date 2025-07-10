@@ -1,0 +1,159 @@
+No,Name,Negara
+1,University of Oxford,Inggris
+2,Harvard University,Amerika Serikat
+3,Stanford University,Amerika Serikat
+4,Massachusetts Institute of Technology (MIT),Amerika Serikat
+5,University of Cambridge,Inggris
+6,California Institute of Technology (Caltech),Amerika Serikat
+7,University of Chicago,Amerika Serikat
+8,Yale University,Amerika Serikat
+9,Princeton University,Amerika Serikat
+10,Imperial College London,Inggris
+11,University of Pennsylvania,Amerika Serikat
+12,Columbia University,Amerika Serikat
+13,ETH Zurich - Swiss Federal Institute of Technology,Swiss
+14,UCL (University College London),Inggris
+15,"University of California, Berkeley (UCB)",Amerika Serikat
+16,Johns Hopkins University,Amerika Serikat
+17,Tsinghua University,Tiongkok
+18,Cornell University,Amerika Serikat
+19,University of Toronto,Kanada
+20,Peking University,Tiongkok
+21,University of Michigan-Ann Arbor,Amerika Serikat
+22,The University of Edinburgh,Inggris
+23,"University of California, Los Angeles (UCLA)",Amerika Serikat
+24,National University of Singapore (NUS),Singapura
+25,The University of Tokyo,Jepang
+26,Northwestern University,Amerika Serikat
+27,New York University (NYU),Amerika Serikat
+28,The University of Melbourne,Australia
+29,"University of California, San Diego (UCSD)",Amerika Serikat
+30,Duke University,Amerika Serikat
+31,King's College London,Inggris
+32,The University of Manchester,Inggris
+33,"Nanyang Technological University, Singapore (NTU)",Singapura
+34,EPFL (Ecole Polytechnique Fédérale de Lausanne),Swiss
+35,Université PSL (Paris Sciences & Lettres),Perancis
+36,University of British Columbia,Kanada
+37,McGill University,Kanada
+38,The University of Hong Kong,Hong Kong
+39,Kyoto University,Jepang
+40,Technical University of Munich,Jerman
+41,The Australian National University,Australia
+42,Ludwig-Maximilians-Universität München,Jerman
+43,University of Washington,Amerika Serikat
+44,The University of Queensland,Australia
+45,Fudan University,Tiongkok
+46,The University of Sydney,Australia
+47,Carnegie Mellon University,Amerika Serikat
+48,Ruprecht-Karls-Universitaet Heidelberg,Jerman
+49,University of Texas at Austin,Amerika Serikat
+50,Seoul National University,Korea Selatan
+51,The Chinese University of Hong Kong,Hong Kong
+52,The University of New South Wales (UNSW Australia),Australia
+53,Zhejiang University,Tiongkok
+54,University of Wisconsin-Madison,Amerika Serikat
+55,KU Leuven,Belgia
+56,Monash University,Australia
+57,University of Illinois at Urbana-Champaign,Amerika Serikat
+58,Shanghai Jiao Tong University,Tiongkok
+59,"University of North Carolina, Chapel Hill",Amerika Serikat
+60,Washington University in St. Louis,Amerika Serikat
+61,London School of Economics and Political Science (LSE),Inggris
+62,University of Zurich,Swiss
+63,Sorbonne University,Perancis
+64,University of Amsterdam,Belanda
+65,University of Copenhagen,Denmark
+66,Brown University,Amerika Serikat
+67,University of Bristol,Inggris
+68,Georgia Institute of Technology,Amerika Serikat
+69,Utrecht University,Belanda
+70,The University of Warwick,Inggris
+71,Hong Kong University of Science and Technology,Hong Kong
+72,Université Paris-Saclay,Perancis
+73,University of Southern California,Amerika Serikat
+74,University of Science and Technology of China,Tiongkok
+75,Delft University of Technology,Belanda
+76,Boston University,Amerika Serikat
+77,"University of California, Davis",Amerika Serikat
+78,Leiden University,Belanda
+79,Wageningen University,Belanda
+80,Hong Kong Polytechnic University,Hong Kong
+81,University of Groningen,Belanda
+82,"University of California, Santa Barbara (UCSB)",Amerika Serikat
+83,University of Helsinki,Finlandia
+84,KAIST - Korea Advanced Institute of Science & Technology,Korea Selatan
+85,University of Oslo,Norwegia
+86,University of Glasgow,Inggris
+87,Université de Montréal,Kanada
+88,University of Birmingham,Inggris
+89,Purdue University,Amerika Serikat
+90,McMaster University,Kanada
+91,The University of Sheffield,Inggris
+92,Ghent University,Belgia
+93,The University of Western Australia,Australia
+94,"University of Maryland, College Park",Amerika Serikat
+95,Ohio State University,Amerika Serikat
+96,The University of Adelaide,Australia
+97,University of Bern,Swiss
+98,Lomonosov Moscow State  University,Rusia
+99,National Taiwan University (NTU),Taiwan
+100,City University of Hong Kong,Hong Kong
+101,Alfaisal University,Arab Saudi
+102,King Fahd University of Petroleum & Minerals,Arab Saudi
+103,King Saud University,Arab Saudi
+104,King Abdulaziz University (KAU),Arab Saudi
+105,Technische Universitat Graz,Austria
+106,Technische Universitat Wien,Austria
+107,Universität Innsbruck,Austria
+108,University of Vienna,Austria
+109,Université Catholique de Louvain (UCL),Belgia
+110,Université Libre de Bruxelles,Belgia
+111,Aalborg University,Denmark
+112,Aarhus University,Denmark
+113,Technical University of Denmark,Denmark
+114,Aalto University,Finlandia
+115,University of Oulu,Finlandia
+116,University of Turku,Finlandia
+117,National University of Ireland Galway,Irlandia
+118,Trinity College Dublin,Irlandia
+119,University College Cork,Irlandia
+120,University College Dublin,Irlandia
+121,Reykjavík University,Islandia
+122,University of Iceland,Islandia
+123,Alma Mater Studiorum - University of Bologna,Italia
+124,Politecnico di Milano,Italia
+125,Sapienza University of Rome,Italia
+126,Università degli Studi di Padova (UNIPD),Italia
+127,Tohoku University,Jepang
+128,Tokyo Institute of Technology,Jepang
+129,Albert-Ludwigs-Universitaet Freiburg,Jerman
+130,Sungkyunkwan University (SKKU),Korea Selatan
+131,Yonsei University,Korea Selatan
+132,University of Luxembourg,Luksemburg
+133,Universiti Malaya (UM),Malaysia
+134,Universiti Putra Malaysia (UPM),Malaysia
+135,Universiti Sains Malaysia (USM),Malaysia
+136,Universiti Teknologi Malaysia,Malaysia
+137,Norwegian University of Science and Technology,Norwegia
+138,UiT The Arctic University of Norway,Norwegia
+139,University of Bergen,Norwegia
+140,Institut Polytechnique de Paris,Perancis
+141,Qatar University,Qatar
+142,The University of Auckland,Selandia Baru
+143,University of Canterbury,Selandia Baru
+144,University of Otago,Selandia Baru
+145,Victoria University of Wellington,Selandia Baru
+146,Singapore Management University,Singapura
+147,Universidad Autónoma de Madrid,Spanyol
+148,Universitat Autònoma de Barcelona,Spanyol
+149,Universitat de Barcelona,Spanyol
+150,Universitat Pompeu Fabra,Spanyol
+151,Lund University,Swedia
+152,Stockholm University,Swedia
+153,University of Gothenburg,Swedia
+154,Uppsala University,Swedia
+155,National Tsing Hua University,Taiwan
+156,National Yang Ming Chiao Tung University,Taiwan
+157,Taipei Medical University,Taiwan
+158,University of Waterloo,Kanada
