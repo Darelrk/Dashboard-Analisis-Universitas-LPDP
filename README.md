@@ -7,7 +7,7 @@ Ever been confused comparing university rankings from QS, THE, and other sources
 \[View the Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/a26778f6-5e58-450f-a386-b41315e022f4)
 
 
-!\[Dashboard Screenshot](https://raw.githubusercontent.com/username/repo/main/images/dashboard\_screenshot.png)
+!\[Dashboard Screenshot](images/.dashboard.png)
 
 
 About This Project
