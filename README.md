@@ -6,6 +6,8 @@ Ever been confused comparing university rankings from QS, THE, and other sources
 
 \View the Interactive Dashboard on Looker Studio : (https://lookerstudio.google.com/reporting/8910294d-6399-4722-bf28-3d72bbce1f4f)
 
+screenshot : (https://github.com/Darelrk/Dashboard-Analisis-Universitas-LPDP/blob/790698dd301dfc1555d3ec9e7706940e53ae528e/images/dashboard.png)
+
 About This Project
 
 Often, a university with a modest overall ranking turns out to have an outstanding Computer Science department. That's what I call 'Hidden Gems'. This project was born from a desire to find such campuses: those that are proven leaders in their field, even if they aren't always in the spotlight.
