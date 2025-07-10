@@ -4,11 +4,7 @@
 Ever been confused comparing university rankings from QS, THE, and other sources? So have I. That's why I created this dashboard to simplify the campus search, especially for finding 'hidden gems' from the list of universities targeted by the Indonesia Endowment Fund for Education (LPDP).
 
 
-\[View the Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/a26778f6-5e58-450f-a386-b41315e022f4)
-
-
-!\[Dashboard Screenshot] (https://github.com/Darelrk/Dashboard-Analisis-Universitas-LPDP/blob/fd1ef80bb7b077cc2028753d5f6c130a753fa405/images/dashboard.png)
-
+\View the Interactive Dashboard on Looker Studio : (https://lookerstudio.google.com/reporting/8910294d-6399-4722-bf28-3d72bbce1f4f)
 
 About This Project
 
