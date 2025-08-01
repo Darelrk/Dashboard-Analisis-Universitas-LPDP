@@ -1,55 +1,46 @@
-\# World University Opportunity Analysis Dashboard
+# World University Opportunity Analysis Dashboard
 
+A tool for discovering "hidden gems" from the list of universities targeted by the LPDP scholarship.
 
-Ever been confused comparing university rankings from QS, THE, and other sources? So have I. That's why I created this dashboard to simplify the campus search, especially for finding 'hidden gems' from the list of universities targeted by the Indonesia Endowment Fund for Education (LPDP).
+**[View the Interactive Dashboard 🚀](https://lookerstudio.google.com/reporting/8910294d-6399-4722-bf28-3d72bbce1f4f)**
 
+![Dashboard Screenshot](https://github.com/Darelrk/Dashboard-Analisis-Universitas-LPDP/blob/main/images/dashboard.jpg)
 
-\View the Interactive Dashboard on Looker Studio : (https://lookerstudio.google.com/reporting/8910294d-6399-4722-bf28-3d72bbce1f4f)
+---
 
-screenshot : (https://github.com/Darelrk/Dashboard-Analisis-Universitas-LPDP/blob/790698dd301dfc1555d3ec9e7706940e53ae528e/images/dashboard.png)
+## 🎯 About This Project
 
-About This Project
+Choosing a university can be confusing, especially when comparing various ranking systems. This project was born from the need to simplify the search process, with a primary focus on finding **"Hidden Gems"**: universities that have outstanding study programs (e.g., Computer Science) even if their overall world ranking isn't always at the top.
 
-Often, a university with a modest overall ranking turns out to have an outstanding Computer Science department. That's what I call 'Hidden Gems'. This project was born from a desire to find such campuses: those that are proven leaders in their field, even if they aren't always in the spotlight.
+All universities in this dashboard are from the official **LPDP** scholarship destination list, making it a highly relevant tool for prospective applicants.
 
-Most importantly, all universities in this dashboard are from the official LPDP scholarship destination list, making this analysis highly relevant for those preparing to apply.
+---
 
-Key Features
+## ✨ Key Features
 
-With this dashboard, you can:
+* **Interactive Map**: Visualize the distribution of top world universities from the LPDP list.
+* **Ranking Comparison**: Directly compare university rankings from **QS, THE, and CWUR** in a single view.
+* **"Hidden Gem" Score**: Discover excellence in Computer Science programs through a specially designed score.
+* **Filter by Country**: Focus your search by filtering all data by the destination country.
 
-\* View the distribution of top world universities (based on the LPDP list) on an interactive map.
+---
 
-\* Directly compare overall rankings from QS, THE, and CWUR.
+## 🛠️ Technology Stack
 
-\* Discover 'Hidden Gems' through a special score that highlights excellence in Computer Science.
+* **Data Collection**: `Python` (Selenium)
+* **Data Analysis**: `Python` (Pandas, Jupyter Notebook)
+* **Data Storage**: `CSV Upload`
+* **Data Visualization**: `Looker Studio`
 
-\* Filter all data by country for a more specific search.
+---
 
+## ⚙️ Behind the Scenes
 
-Technology Stack
+1.  **Data Collection**
+    Overall and Computer Science-specific ranking data was automatically collected from the QS, THE, and CWUR sites, using the official LPDP directory as the reference list of universities.
 
-\* Data Visualization: `Looker Studio`
+2.  **Cleaning & Merging**
+    All raw data from multiple sources was cleaned, standardized, and merged into a single master CSV *file* using Pandas.
 
-\* Data Storage: `CSV Upload`
-
-\* Data Collection: `Python` (Selenium)
-
-\* Data Analysis: `Python` (Pandas, Jupyter Notebook)
-
-
-
-Behind the Scenes
-
-1\.  Data Collection
-
-&nbsp;   Overall and Computer Science-specific ranking data was automatically collected from various sites (QS, THE, CWUR) using the official LPDP directory as the university list.
-
-2\.  Cleaning \& Merging
-
-&nbsp;   All raw data from multiple sources was then cleaned, standardized, and merged into a single master CSV file using Pandas.
-
-3\.  Visualization
-
-&nbsp;   The cleaned CSV file was then uploaded to Looker Studio to create the interactive dashboard you can see and use.
-
+3.  **Visualization**
+    The cleaned CSV *file* was uploaded to Looker Studio to create the interactive dashboard you can see and use.
