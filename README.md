@@ -44,3 +44,7 @@ All universities in this dashboard are from the official **LPDP** scholarship de
 
 3.  **Visualization**
     The cleaned CSV *file* was uploaded to Looker Studio to create the interactive dashboard you can see and use.
+
+
+## WARNING
+* **the scrapTHE&CWUR.ipynb script is no longer relevant you will have to update it every time you want to retrieve data**
